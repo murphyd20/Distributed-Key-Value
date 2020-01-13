@@ -1,0 +1,27 @@
+P "key 1" "A lonely mother gazing out of her window"
+P "key 2" "Staring at a son that she just can't touch"
+P "key 3" "If at any time he's in a jam"
+
+P "key 4" "She'll be by his side"
+P "key 5" "But he doesn't realize he hurts her so much"
+
+P "key 6" "But all the praying just ain't helping"
+P "key 7" "At all 'cause he can't seem to keep"
+P "key 8" "His self out of trouble"
+P "key 9" "So he goes out and he makes his money"
+
+P "key 10" "The best way he knows how"
+P "key 11" "Another body laying cold in the gutter"
+P "key 12" "Listen to me"
+
+
+P "key 13" "Don't go chasing waterfalls"
+
+P "key 14" "Please stick to the rivers and lakes that"
+P "key 15" "You're used to"
+
+P "key 16" "I know that you're gonna have it your way"
+P "key 17" "Or nothing at all"
+
+P "key 18" "But I think you're moving too fast"
+
